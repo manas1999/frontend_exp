@@ -1,0 +1,46 @@
+<table class="content-table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Second</th>
+      <th scope="col">third</th>
+      <th scope="col">fourth</th>
+      <th scope="col">fifth</th>
+      <th scope="col">sixth</th>
+      <th scope="col">seventh</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">columnname</th>
+      <td>uuid</td>
+      <td>app_id</td>
+      <td>hid</td>
+      <td>bill_start</td>
+      <td>source</td>
+      <td>attributes</td>
+      <td>pilot_id</td>
+    </tr>
+    <tr>
+      <th scope="row">external_type</th>
+      <td>varchar</td>
+      <td>smallint</td>
+      <td>smallint</td>
+      <td>int</td>
+      <td>varchar</td>
+      <td>struct</td>
+      <td>int</td>
+    </tr>
+    <tr>
+      <th scope="row">schema</th>
+      <td>spectrumdb</td>
+      <td>spectrumdb</td>
+      <td>spectrumdb</td>
+      <td>spectrumdb</td>
+      <td>spectrumdb</td>
+      <td>spectrumdb</td> 
+      <td>spectrumdb</td>
+    </tr>
+  </tbody>
+</table>
